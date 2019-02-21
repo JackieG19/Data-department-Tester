@@ -1,0 +1,40 @@
+Marketing - d001
+10017, Cristinel Bouloucos - $99651
+
+Finance - d002
+N/A
+
+Human Resources - d003
+10005, Kyoichi Maliniak - $94692
+10013, Eberhardt Terkki - $68901
+
+Production - d004
+10003, Parto Bamford - $43311
+10004, Chirstian Koblick - $74057
+10010, Duangkaew Piveteau - $80324
+10018, Kazuhide Peha - $84672
+10020, Mayuko Warwick - $47017
+
+Development - d005
+10001, Georgi Facello - $88958
+10006, Anneke Preusig - $59755
+10008, Saniya Kalloufi - N/A
+10012, Patricio Bridgland - $54423
+10014, Berni Genin - $60598
+10018, Kazuhide Peha - $84672
+
+Quality Management - d006
+10009, Sumant Peac - $94409
+10010, Duangkaew Piveteau - $80324
+
+Sales - d007
+10002, Bezalel Simmel - $72527
+10016, Kazuhito Cappelletti - $77935
+
+Research - d008
+10007, Tzvetan Zielinski - $88070
+10015, Guoxiang Nooteboom - N/A
+10019, Lillian Haddadi - $50032
+
+Customer Service - d009
+10011, Mary Sluis - N/A
