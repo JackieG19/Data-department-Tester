@@ -14,7 +14,7 @@ for(var i = 0; i < departmentId.length; i++){
         if(empolyeeId[i].length){
             total += salary[i][j];
         }
-        console.log("Total salary of Department:", total); 
     }
+    console.log("Total salary of Department:", total);
 }
     
